@@ -14,12 +14,12 @@ This exhausts the servers thread pool and the server can't reply to other people
 If you found this work useful, please cite it as
 
 ```bibtex
-@article{gkbrkslowloris,
+@mosesmupeta/lowloris,
   title = "Slowloris",
-  author = "Gokberk Yaltirakli",
+  author = "moses mupeta",
   journal = "github.com",
-  year = "2015",
-  url = "https://github.com/gkbrk/slowloris"
+  year = "2022",
+  url = "https://github.com/mosesmupeta/slowloris"
 }
 ```
 
@@ -34,7 +34,7 @@ That's all it takes to install and run slowloris.py.
 
 If you want to clone using git instead of pip, here's how you do it.
 
-* `git clone https://github.com/gkbrk/slowloris.git`
+* `git clone https://github.com/mosesmupeta/slowloris.git`
 * `cd slowloris`
 * `python3 slowloris.py example.com`
 
